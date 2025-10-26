@@ -1,4 +1,5 @@
 <img src="https://media1.tenor.com/m/kql_lQh7yB8AAAAd/typing-keyboard-fast.gif" width="300" alt="Fast typing GIF"/>
+<img src="https://media1.tenor.com/m/WU1hT76rBZ4AAAAC/bad-bunny.gif" width="300" alt="Bad Bunny GIF"/>
 
 
 
@@ -12,12 +13,6 @@ I’m a developer who speaks fluent PHP and dreams in Laravel syntax.
 When I’m not wrestling with APIs or refactoring code that “worked on my machine,” you’ll probably find me celebrating a deploy that finally didn’t break production.
 
 I build stuff like:
-
-🏗 WMS – because warehouses deserve better logistics.
-
-🚛 TMS – Trucking Management System that keeps things rolling.
-
-🛍 Catalogue – for showing off shiny products.
 
 💳 Payment Gateway using Xendit – where the real magic (and money) happens.
 
