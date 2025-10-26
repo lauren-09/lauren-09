@@ -1,5 +1,7 @@
-<img src="https://media1.tenor.com/m/kql_lQh7yB8AAAAd/typing-keyboard-fast.gif" width="300" alt="Fast typing GIF"/>
-<img src="https://media1.tenor.com/m/WU1hT76rBZ4AAAAC/bad-bunny.gif" width="300" alt="Bad Bunny GIF"/>
+<p align="center">
+  <img src="https://media1.tenor.com/m/kql_lQh7yB8AAAAd/typing-keyboard-fast.gif" width="300" alt="Fast typing GIF"/>
+  <img src="https://media1.tenor.com/m/WU1hT76rBZ4AAAAC/bad-bunny.gif" width="300" alt="Bad Bunny GIF"/>
+</p>
 
 
 
